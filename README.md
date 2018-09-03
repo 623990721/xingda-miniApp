@@ -1,0 +1,2 @@
+# xingda-miniApp
+xingda weixinAPI
